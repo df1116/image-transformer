@@ -2,6 +2,11 @@
 
 `ImageSampler` extracts random samples from an image.
 
+`ImageSamplerTwo` performs the same action but in a more random and slow manner. All instructions on how to use 
+`ImageSampler` can be used for `ImageSampleTwo`.
+
+
+
 ## Requirements
 
 - Python 3.6 or later
